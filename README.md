@@ -25,4 +25,4 @@ The Wikipedia Data API is designed to serve as a demo API for storing and retrie
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/Wiki-API.git
+   git clone https://github.com/sukhbir77/wikipedia-api-nodejs.git
